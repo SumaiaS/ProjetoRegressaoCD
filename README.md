@@ -1,10 +1,11 @@
 # ProjetoRegressaoCD
 
-# Relatório Técnico: Implementação e Análise do Algoritmo k-Nearest Neighbors (kNN) Aplicado ao Instagram
+# Relatório Técnico: Análise e Modelagem de Dados de Influenciadores do Instagram com Regressão Linear
 
-**Nome do Residente:** Leandro de Oliveira e Sumaia Suzart Argôlo Nunesmaia  
-**Data de Entrega:** 17/11/2024
-**RESTIC36-CEPEDI**
+**Nome do Residente:** Leandro de Oliveira e Sumaia Suzart Argôlo Nunesmaia   
+**Data de Entrega:** 17/11/2024  
+**RESTIC-36 - CEPEDI**
+
 
 ## Resumo
 
